@@ -14,11 +14,11 @@ Git is the language, and GitHub is the language in which it is distrubuted to ot
 
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
-[Your answer here]
+Committing and pushing is how changes are made, committing means you're actually actively making the changes, and pushing is the actual process in which is pushes out toshow the final changes that is made.
 
 **3. What is a repository and what does it contain?**
 
-[Your answer here]
+Repositories are where the projects actually take place and occur, it contains all the project files and revisions.
 
 ---
 
@@ -26,7 +26,7 @@ Git is the language, and GitHub is the language in which it is distrubuted to ot
 
 **Link to your GitHub profile repository:** 
 
-[Paste your profile repository link here - it should look something like: https://github.com/yourusername/yourusername]
+https://github.com/miguelm2026/miguelm2026/blob/main/README.md 
 
 ---
 
@@ -34,7 +34,7 @@ Git is the language, and GitHub is the language in which it is distrubuted to ot
 
 **What aspect of AI are you most excited to learn about this year? Explain why.**
 
-[Your answer here - feel free to write a paragraph or more!]
+I'm most excited to learn how to use AI responsibly especially since it's been a growing topic throughout computer sceicne and other places. Also, since i'm going to college I want to know how to use Ai to my advantage and not the typical "cheating" way, but more so it teaches me and I can actually learn and benefit from it's use.
 
 ---
 
