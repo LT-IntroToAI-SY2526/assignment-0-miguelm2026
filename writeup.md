@@ -10,8 +10,7 @@ All answers can be found in the README.md file
 
 **1. What is the difference between Git and GitHub?**
 
-Git is the language, and GitHub is the language in which it is distrubuted to others.
-
+Git is the language in which it is used to track changes made and version histories; Version Control System. GitHub maintains the history of it and can be disrubuted world wide for others to collobarate on a project.
 **2. Explain what "committing and pushing" means in your own words. Why are these steps important?**
 
 Committing and pushing is how changes are made, committing means you're actually actively making the changes, and pushing is the actual process in which is pushes out toshow the final changes that is made.
